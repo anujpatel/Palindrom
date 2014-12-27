@@ -1,0 +1,7 @@
+Original Number is - 46361
+Reverse Number is - 16364
+number is not palindrom
+
+Original Number is - 46364
+Reverse Number is - 46364
+number is Palindrom
